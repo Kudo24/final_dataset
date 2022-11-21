@@ -1,0 +1,26 @@
+<annotation>
+	<folder>J</folder>
+	<filename>J574.jpg</filename>
+	<path>C:\Users\Nightwing\Desktop\Dataset\J\J574.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>J</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>13</ymin>
+			<xmax>190</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

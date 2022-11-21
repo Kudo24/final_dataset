@@ -1,0 +1,26 @@
+<annotation>
+	<folder>L</folder>
+	<filename>L1798.jpg</filename>
+	<path>C:\Users\Nightwing\Desktop\Dataset\L\L1798.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>L</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>52</ymin>
+			<xmax>180</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

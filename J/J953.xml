@@ -1,0 +1,26 @@
+<annotation>
+	<folder>J</folder>
+	<filename>J953.jpg</filename>
+	<path>C:\Users\Nightwing\Desktop\Dataset\J\J953.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>J</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>49</ymin>
+			<xmax>162</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>
