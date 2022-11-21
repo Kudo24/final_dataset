@@ -1,0 +1,26 @@
+<annotation>
+	<folder>I</folder>
+	<filename>I397.jpg</filename>
+	<path>C:\Users\Nightwing\Desktop\Dataset\I\I397.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>11</ymin>
+			<xmax>166</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>
