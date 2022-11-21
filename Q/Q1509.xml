@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Q</folder>
+	<filename>Q1509.jpg</filename>
+	<path>C:\Users\Nightwing\Desktop\Dataset\Q\Q1509.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>1</ymin>
+			<xmax>174</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>
