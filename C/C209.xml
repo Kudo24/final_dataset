@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C</folder>
+	<filename>C209.jpg</filename>
+	<path>C:\Users\Nightwing\Desktop\Dataset\C\C209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>30</ymin>
+			<xmax>117</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>
